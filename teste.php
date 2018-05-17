@@ -12,9 +12,9 @@
 			printf("\n&d", i);
 			i++;
 		}
-		for ($i=10 ; i>0 ; i++){
+		for ($a=10 ; a0 ;a++){
 			printf("\n&d", i);
 			i++;
 		}
-		//modificfeita localmente por guilherme orlandini
+		
 ?>		
