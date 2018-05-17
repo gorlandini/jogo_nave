@@ -7,4 +7,6 @@
 		{
 			printf("a é igual à 0");
 		}
+		
+		//modificação feita localmente por guilherme orlandini
 ?>		
