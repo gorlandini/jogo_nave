@@ -16,5 +16,5 @@
 			printf("\n&d", i);
 			i++;
 		}
-		//modificação feita localmente por guilherme orlandini
+		//modificfeita localmente por guilherme orlandini
 ?>		
