@@ -7,6 +7,14 @@
 		{
 			printf("a é igual à 0");
 		}
-		
+	else (
+		for ($i=0 ; i<10 ; i++){
+			printf("\n&d", i);
+			i++;
+		}
+		for ($i=10 ; i>0 ; i++){
+			printf("\n&d", i);
+			i++;
+		}
 		//modificação feita localmente por guilherme orlandini
 ?>		
